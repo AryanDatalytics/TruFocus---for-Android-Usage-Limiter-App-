@@ -2,7 +2,7 @@
 # TruFocus 📱
 
 <p align="center">
-  <img src="assets/logo.png" alt="TruFocus Logo" width="120px">
+  <img src="assets/ic_app_logo.png" alt="TruFocus Logo" width="120px">
 </p>
 
 <h1 align="center">TruFocus</h1>
