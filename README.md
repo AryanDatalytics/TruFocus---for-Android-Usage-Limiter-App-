@@ -1,5 +1,6 @@
 # TruFocus---for-Android-Usage-Limiter-App-
 # TruFocus 📱
+
 <p align="center">
   <img src="assets/logo.png" alt="TruFocus Logo" width="120px">
 </p>
