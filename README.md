@@ -1,5 +1,17 @@
 # TruFocus---for-Android-Usage-Limiter-App-
 # TruFocus 📱
+<p align="center">
+  <img src="assets/logo.png" alt="TruFocus Logo" width="120px">
+</p>
+
+<h1 align="center">TruFocus</h1>
+
+<p align="center">
+  <strong>Monitor • Protect • Focus</strong><br>
+  An Android application built with Jetpack Compose to reclaim your digital focus.
+</p>
+
+---
 
 **TruFocus** is a productivity-first Android application designed to help users reclaim their time. It features a high-end, **iPhone-inspired (iOS)** user interface and provides real-time tracking of app usage to curb digital addiction.
 
