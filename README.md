@@ -33,4 +33,20 @@
 * **Statistics Dashboard:** Visualizing weekly usage trends with aesthetic charts.
 
 ## 📸 Preview
+## 📱 App Previews
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td><img src="assets/preview1.jpeg" width="180px" alt="Splash Screen"/><br><sub><b>Splash Screen</b></sub></td>
+    <td><img src="assets/preview2.jpeg" width="180px" alt="Dashboard"/><br><sub><b>Dashboard</b></sub></td>
+    <td><img src="assets/preview3.jpeg" width="180px" alt="App Limits"/><br><sub><b>App Limits</b></sub></td>
+  </tr>
+  <tr>
+    <td><img src="assets/preview4.jpeg" width="180px" alt="Analytics"/><br><sub><b>Analytics</b></sub></td>
+    <td><img src="assets/preview5.jpeg" width="180px" alt="Focus Mode"/><br><sub><b>Focus Mode</b></sub></td>
+    <td><img src="https://img.shields.io/badge/TruFocus-v1.0-blue?style=for-the-badge" width="180px"/><br><sub><b>Ready to Use</b></sub></td>
+  </tr>
+</table>
+
+---
 
